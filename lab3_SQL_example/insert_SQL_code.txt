@@ -1,0 +1,35 @@
+insert into faculties(facultyid, facultyname, descript)
+values
+(1, 'FCTAM', 'Faculty of Computer Technology and Applied Mathematics'),
+(2, 'FE', 'Faculty of Economics');
+
+insert into specialities(specialtyid, facultyid, specialtyname, specialtycode, descript)
+values
+(1, 1, 'FIIT', '02.03.02', 'Fundamental Informatics and Information Technologies'),
+(2, 1, 'FIIT', '01.03.02', 'Applied Mathematics and Informatics');
+
+insert into sets(setid, setname, setyear, specialtyid)
+values
+(1, '2015', 2015, 1),
+(2, '2016', 2016, 2);
+
+insert into teachform(teachformid, descript)
+values
+(1, 'Full-time'),
+(2, 'Part-time'),
+(3, 'Correspondence');
+
+insert into groups(groupid, setid, groupname, teachformid)
+values
+(1, 1, '26/2', 1),
+(2, 2, '29/2', 2);
+
+insert into students(studentid, groupid, surname, firstname, lastname, birthplace, phone, address)
+values
+(1, 1, 'Kostrov', 'Aleksandr', 'Alekseevich', 2005-08-12, 'Tbilisskaya', '+78005553535', 'Pushkin st., 2'),
+(2, 1, 'Ivanov', 'Ivan', 'Ivanovich', 2002-07-11, 'Krasnodar', '+78005557777', 'Kolotushkin st., 3'),
+(3, 2, 'Petrov', 'Petr', 'Petrovich', 2003-06-04, 'Moscow', '+78005554444', 'Tushkin st., 5');
+
+select * from students;
+
+select facultyname from faculties;

@@ -1,0 +1,5 @@
+ALTER TABLE Specialities
+ADD CONSTRAINT FKSpecialitiesFaculties
+FOREIGN KEY (FacultyID)
+REFERENCES Faculties(FacultyID)
+ON UPDATE CASCADE;

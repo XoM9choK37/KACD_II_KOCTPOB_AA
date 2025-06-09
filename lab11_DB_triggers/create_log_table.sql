@@ -1,0 +1,5 @@
+CREATE TABLE logs (
+	log_id SERIAL PRIMARY KEY,
+	date TIMESTAMP,
+	info TEXT
+);

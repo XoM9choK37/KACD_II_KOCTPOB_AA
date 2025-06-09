@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\User\\Documents\\CodesAndPrograms\\4_CEMECTP\\KACD\\lab11_DB_triggers\\MY_DB_APP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63056E9C-F84F-48A4-87AB-1401CBC56F6D}|MY_DB_APP\\MY_DB_APP.csproj|d:\\user\\documents\\codesandprograms\\4_cemectp\\kacd\\lab11_db_triggers\\my_db_app\\my_db_app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{63056E9C-F84F-48A4-87AB-1401CBC56F6D}|MY_DB_APP\\MY_DB_APP.csproj|solutionrelative:my_db_app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63056E9C-F84F-48A4-87AB-1401CBC56F6D}|MY_DB_APP\\MY_DB_APP.csproj|D:\\User\\Documents\\CodesAndPrograms\\4_CEMECTP\\KACD\\lab11_DB_triggers\\MY_DB_APP\\my_db_app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63056E9C-F84F-48A4-87AB-1401CBC56F6D}|MY_DB_APP\\MY_DB_APP.csproj|solutionrelative:my_db_app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63056E9C-F84F-48A4-87AB-1401CBC56F6D}|MY_DB_APP\\MY_DB_APP.csproj|D:\\User\\Documents\\CodesAndPrograms\\4_CEMECTP\\KACD\\lab11_DB_triggers\\MY_DB_APP\\my_db_app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63056E9C-F84F-48A4-87AB-1401CBC56F6D}|MY_DB_APP\\MY_DB_APP.csproj|solutionrelative:my_db_app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63056E9C-F84F-48A4-87AB-1401CBC56F6D}|MY_DB_APP\\MY_DB_APP.csproj|D:\\User\\Documents\\CodesAndPrograms\\4_CEMECTP\\KACD\\lab11_DB_triggers\\MY_DB_APP\\my_db_app\\crud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63056E9C-F84F-48A4-87AB-1401CBC56F6D}|MY_DB_APP\\MY_DB_APP.csproj|solutionrelative:my_db_app\\crud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63056E9C-F84F-48A4-87AB-1401CBC56F6D}|MY_DB_APP\\MY_DB_APP.csproj|D:\\User\\Documents\\CodesAndPrograms\\4_CEMECTP\\KACD\\lab11_DB_triggers\\MY_DB_APP\\my_db_app\\crud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{63056E9C-F84F-48A4-87AB-1401CBC56F6D}|MY_DB_APP\\MY_DB_APP.csproj|solutionrelative:my_db_app\\crud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63056E9C-F84F-48A4-87AB-1401CBC56F6D}|MY_DB_APP\\MY_DB_APP.csproj|D:\\User\\Documents\\CodesAndPrograms\\4_CEMECTP\\KACD\\lab11_DB_triggers\\MY_DB_APP\\my_db_app\\export.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63056E9C-F84F-48A4-87AB-1401CBC56F6D}|MY_DB_APP\\MY_DB_APP.csproj|solutionrelative:my_db_app\\export.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63056E9C-F84F-48A4-87AB-1401CBC56F6D}|MY_DB_APP\\MY_DB_APP.csproj|D:\\User\\Documents\\CodesAndPrograms\\4_CEMECTP\\KACD\\lab11_DB_triggers\\MY_DB_APP\\my_db_app\\export.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{63056E9C-F84F-48A4-87AB-1401CBC56F6D}|MY_DB_APP\\MY_DB_APP.csproj|solutionrelative:my_db_app\\export.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\User\\Documents\\CodesAndPrograms\\4_CEMECTP\\KACD\\lab11_DB_triggers\\MY_DB_APP\\MY_DB_APP\\Program.cs",
+              "RelativeDocumentMoniker": "MY_DB_APP\\Program.cs",
+              "ToolTip": "D:\\User\\Documents\\CodesAndPrograms\\4_CEMECTP\\KACD\\lab11_DB_triggers\\MY_DB_APP\\MY_DB_APP\\Program.cs",
+              "RelativeToolTip": "MY_DB_APP\\Program.cs",
+              "ViewState": "AgIAAA0BAAAAAAAAAAAUwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T20:53:49.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CRUD.cs",
+              "DocumentMoniker": "D:\\User\\Documents\\CodesAndPrograms\\4_CEMECTP\\KACD\\lab11_DB_triggers\\MY_DB_APP\\MY_DB_APP\\CRUD.cs",
+              "RelativeDocumentMoniker": "MY_DB_APP\\CRUD.cs",
+              "ToolTip": "D:\\User\\Documents\\CodesAndPrograms\\4_CEMECTP\\KACD\\lab11_DB_triggers\\MY_DB_APP\\MY_DB_APP\\CRUD.cs",
+              "RelativeToolTip": "MY_DB_APP\\CRUD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAO0BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T01:00:46.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CRUD.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\User\\Documents\\CodesAndPrograms\\4_CEMECTP\\KACD\\lab11_DB_triggers\\MY_DB_APP\\MY_DB_APP\\CRUD.cs",
+              "RelativeDocumentMoniker": "MY_DB_APP\\CRUD.cs",
+              "ToolTip": "D:\\User\\Documents\\CodesAndPrograms\\4_CEMECTP\\KACD\\lab10_DB_export\\MY_DB_APP\\MY_DB_APP\\CRUD.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\..\\lab10_DB_export\\MY_DB_APP\\MY_DB_APP\\CRUD.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T01:00:45.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Export.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\User\\Documents\\CodesAndPrograms\\4_CEMECTP\\KACD\\lab11_DB_triggers\\MY_DB_APP\\MY_DB_APP\\Export.cs",
+              "RelativeDocumentMoniker": "MY_DB_APP\\Export.cs",
+              "ToolTip": "D:\\User\\Documents\\CodesAndPrograms\\4_CEMECTP\\KACD\\lab10_DB_export\\MY_DB_APP\\MY_DB_APP\\Export.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\..\\lab10_DB_export\\MY_DB_APP\\MY_DB_APP\\Export.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T12:14:15.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Export.cs",
+              "DocumentMoniker": "D:\\User\\Documents\\CodesAndPrograms\\4_CEMECTP\\KACD\\lab11_DB_triggers\\MY_DB_APP\\MY_DB_APP\\Export.cs",
+              "RelativeDocumentMoniker": "MY_DB_APP\\Export.cs",
+              "ToolTip": "D:\\User\\Documents\\CodesAndPrograms\\4_CEMECTP\\KACD\\lab11_DB_triggers\\MY_DB_APP\\MY_DB_APP\\Export.cs",
+              "RelativeToolTip": "MY_DB_APP\\Export.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T11:35:25.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\User\\Documents\\CodesAndPrograms\\4_CEMECTP\\KACD\\lab11_DB_triggers\\MY_DB_APP\\MY_DB_APP\\Form1.cs",
+              "RelativeDocumentMoniker": "MY_DB_APP\\Form1.cs",
+              "ToolTip": "D:\\User\\Documents\\CodesAndPrograms\\4_CEMECTP\\KACD\\lab11_DB_triggers\\MY_DB_APP\\MY_DB_APP\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "MY_DB_APP\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T11:33:27.01Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\User\\Documents\\CodesAndPrograms\\4_CEMECTP\\KACD\\lab11_DB_triggers\\MY_DB_APP\\MY_DB_APP\\Form1.cs",
+              "RelativeDocumentMoniker": "MY_DB_APP\\Form1.cs",
+              "ToolTip": "D:\\User\\Documents\\CodesAndPrograms\\4_CEMECTP\\KACD\\lab11_DB_triggers\\MY_DB_APP\\MY_DB_APP\\Form1.cs",
+              "RelativeToolTip": "MY_DB_APP\\Form1.cs",
+              "ViewState": "AgIAANkAAAAAAAAAAAAhwB8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T11:34:14.155Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
